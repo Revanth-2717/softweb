@@ -29,7 +29,6 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
-person.html
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -412,7 +411,9 @@ contact.html
     </footer>
 </body>
 </html>
+```
 product.html
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -586,7 +587,9 @@ product.html
     </footer>
 </body>
 </html>
+```
 home.html
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -767,9 +770,12 @@ home.html
     </footer>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![WhatsApp Image 2024-05-12 at 21 29 22_d381a4d6](https://github.com/Revanth-2717/softweb/assets/152462274/afa73de4-cd86-4e50-981b-1917318b3ce5)
+![WhatsApp Image 2024-05-12 at 21 29 27_4602dec9](https://github.com/Revanth-2717/softweb/assets/152462274/ffe844b7-f119-4414-87ce-6e709880ebff)
+![WhatsApp Image 2024-05-12 at 21 29 27_5050f702](https://github.com/Revanth-2717/softweb/assets/152462274/646ec4d0-323a-4009-bff0-825f053c750e)
+![WhatsApp Image 2024-05-12 at 21 29 26_4e0b9081](https://github.com/Revanth-2717/softweb/assets/152462274/9fa24bb2-2d99-4d5f-8a5d-4a0f86014f93)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
