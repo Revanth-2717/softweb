@@ -769,11 +769,7 @@ home.html
 </html>
 
 ## OUTPUT:
-![SCREENSHOT](https://github.com/Revanth-2717/softweb/assets/152462274/ba1cf7da-97cd-4bfd-875a-2b707c2300b9)
-![SCREENSHOT](https://github.com/Revanth-2717/softweb/assets/152462274/e11b65a2-ad44-4954-8ddb-aac802cbce76)
-![SCREENSHOT](https://github.com/Revanth-2717/softweb/assets/152462274/8920518d-e835-4f7a-b256-f8bc817b1fa1)
-![SCREENSHOT](https://github.com/Revanth-2717/softweb/assets/152462274/0e45a682-5a71-49e2-9cc2-9ca2a29ad239)
-
+![WhatsApp Image 2024-05-12 at 21 29 22_d381a4d6](https://github.com/Revanth-2717/softweb/assets/152462274/afa73de4-cd86-4e50-981b-1917318b3ce5)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
